@@ -12,8 +12,6 @@
         carriages_number INT NOT NULL,
         on_time BOOLEAN NOT NULL,
         cancelled BOOLEAN NOT NULL,
-        created_at TIMESTAMP NULL DEFAULT NULL,
-        updated_at TIMESTAMP NULL DEFAULT NULL
     ); -->
 
 
